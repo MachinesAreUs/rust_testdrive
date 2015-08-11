@@ -1,0 +1,4 @@
+[package]
+name = "hello_world_cargo"
+version = "0.1.0"
+authors = ["Agustín Ramos Fonseca <zentimental.software@gmail.com>"]
